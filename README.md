@@ -45,5 +45,4 @@ An automated attendance system developed using **Python**, **OpenCV**, and the *
 
 ---
 
-## 📦 Directory Structure
 
